@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="Qty">Quantity</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+    <string name="OrderSummary">Order Summary</string>
+
+    <string name="initial_value">99</string>
+    <string name="Amount">499</string>
+    <string name="QtyTxt">quantity_text_view</string>
+    <string name="Order">Order</string>
+</resources>
